@@ -2,7 +2,7 @@
 # Unity Animation Examples
 
 
-A sample Unity (2020.2.2f1) project that shows
+A sample Unity (2021.2.7f1) project that shows
 
 - Basic sprite animation and controller
 - Timeline animation using keyframes
