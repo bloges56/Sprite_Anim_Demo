@@ -1,0 +1,152 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: SpriteAtlas_SpainCanaryIslandLotus
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: afdd8e40e88ef45fea7caae8428eddbc, type: 3}
+    - {fileID: 2800000, guid: afdd8e40e88ef45fea7caae8428eddbc, type: 3}
+    - {fileID: 2800000, guid: 2896f4313cc804e12aabcda14d675f67, type: 3}
+    - {fileID: 2800000, guid: b8167cd89822341a89d2d2c4e3e71d7b, type: 3}
+    - {fileID: 2800000, guid: 95670bf9a393a4cfea60d8c04ab4aee9, type: 3}
+    - {fileID: 2800000, guid: b8b4e387525704cfcafd6586322b1c0d, type: 3}
+    - {fileID: 2800000, guid: 27f2918bb5b82414b839b02d8dd4832c, type: 3}
+    - {fileID: 2800000, guid: 80199b539c66e49fea5cb5ac96fcc20a, type: 3}
+    - {fileID: 2800000, guid: 45c9da3707b894f34b213b07d35df066, type: 3}
+    - {fileID: 2800000, guid: 36cf628bdb4974a78be98669149d75ce, type: 3}
+    - {fileID: 2800000, guid: 7e53a77ce97e44de6866122332a8b2d2, type: 3}
+    - {fileID: 2800000, guid: 1e833fdbdba214255a46712497111cbb, type: 3}
+    - {fileID: 2800000, guid: 4a7555f0849c5475ebdfe49cc4f1389c, type: 3}
+    - {fileID: 2800000, guid: 67ac8d02603fa41868acbc5fff8dc7d6, type: 3}
+    - {fileID: 2800000, guid: 268bbcda3b22142cbaec35ad848a9f08, type: 3}
+    - {fileID: 2800000, guid: 2a86996d1c45946af845c1992f020b83, type: 3}
+    - {fileID: 2800000, guid: 6bf5cbb1b59ce434b88ea14dd3aed5c6, type: 3}
+    - {fileID: 2800000, guid: d3421418c8fb5414d9102e00781177b0, type: 3}
+    - {fileID: 2800000, guid: 1b4ab54ea2c1040879517a34393f3478, type: 3}
+    - {fileID: 2800000, guid: c2b5c6e815e2c41e5b850277664acbc0, type: 3}
+    - {fileID: 2800000, guid: 002c4e6a810204fdba5552eb7c3485d1, type: 3}
+    - {fileID: 2800000, guid: 781384bd53ca54882a56a7e5ad25bd09, type: 3}
+    - {fileID: 2800000, guid: 4be4eec15daa8448ca3ea142820b12f7, type: 3}
+    - {fileID: 2800000, guid: c970848cde6d348dfbe1a66f37ecb2b4, type: 3}
+    - {fileID: 2800000, guid: 1da5d3aec6d77403a9ae7955d45ec396, type: 3}
+    - {fileID: 2800000, guid: 2b8a24b84155248c7b472507258b8583, type: 3}
+    - {fileID: 2800000, guid: bf7caf8b01bdd411f9b944eec4ed4ce1, type: 3}
+    - {fileID: 2800000, guid: 8747ea8fca7ea42c3ad170e3f665d74b, type: 3}
+    - {fileID: 2800000, guid: 90099e0f22768434fad369dafaf804f1, type: 3}
+    - {fileID: 2800000, guid: bee437d228c954734b327b8ded598eb7, type: 3}
+    - {fileID: 2800000, guid: e4f7284f6241f4debb8647b1f81db9ae, type: 3}
+    - {fileID: 2800000, guid: 91b79580db91540f59813a223ca87d46, type: 3}
+    - {fileID: 2800000, guid: 9273d90ff9d8e4cf6b2b83754d5dc0cc, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: afdd8e40e88ef45fea7caae8428eddbc, type: 3}
+  - {fileID: 21300000, guid: 91b79580db91540f59813a223ca87d46, type: 3}
+  - {fileID: 21300000, guid: 4a7555f0849c5475ebdfe49cc4f1389c, type: 3}
+  - {fileID: 21300000, guid: 2896f4313cc804e12aabcda14d675f67, type: 3}
+  - {fileID: 21300000, guid: 6bf5cbb1b59ce434b88ea14dd3aed5c6, type: 3}
+  - {fileID: 21300000, guid: 4be4eec15daa8448ca3ea142820b12f7, type: 3}
+  - {fileID: 21300000, guid: 67ac8d02603fa41868acbc5fff8dc7d6, type: 3}
+  - {fileID: 21300000, guid: bee437d228c954734b327b8ded598eb7, type: 3}
+  - {fileID: 21300000, guid: 80199b539c66e49fea5cb5ac96fcc20a, type: 3}
+  - {fileID: 21300000, guid: 45c9da3707b894f34b213b07d35df066, type: 3}
+  - {fileID: 21300000, guid: b8b4e387525704cfcafd6586322b1c0d, type: 3}
+  - {fileID: 21300000, guid: d3421418c8fb5414d9102e00781177b0, type: 3}
+  - {fileID: 21300000, guid: 2b8a24b84155248c7b472507258b8583, type: 3}
+  - {fileID: 21300000, guid: b8167cd89822341a89d2d2c4e3e71d7b, type: 3}
+  - {fileID: 21300000, guid: c2b5c6e815e2c41e5b850277664acbc0, type: 3}
+  - {fileID: 21300000, guid: 95670bf9a393a4cfea60d8c04ab4aee9, type: 3}
+  - {fileID: 21300000, guid: 002c4e6a810204fdba5552eb7c3485d1, type: 3}
+  - {fileID: 21300000, guid: 268bbcda3b22142cbaec35ad848a9f08, type: 3}
+  - {fileID: 21300000, guid: 27f2918bb5b82414b839b02d8dd4832c, type: 3}
+  - {fileID: 21300000, guid: 36cf628bdb4974a78be98669149d75ce, type: 3}
+  - {fileID: 21300000, guid: bf7caf8b01bdd411f9b944eec4ed4ce1, type: 3}
+  - {fileID: 21300000, guid: 1e833fdbdba214255a46712497111cbb, type: 3}
+  - {fileID: 21300000, guid: 7e53a77ce97e44de6866122332a8b2d2, type: 3}
+  - {fileID: 21300000, guid: c970848cde6d348dfbe1a66f37ecb2b4, type: 3}
+  - {fileID: 21300000, guid: 2a86996d1c45946af845c1992f020b83, type: 3}
+  - {fileID: 21300000, guid: 781384bd53ca54882a56a7e5ad25bd09, type: 3}
+  - {fileID: 21300000, guid: 1b4ab54ea2c1040879517a34393f3478, type: 3}
+  - {fileID: 21300000, guid: 1da5d3aec6d77403a9ae7955d45ec396, type: 3}
+  - {fileID: 21300000, guid: 9273d90ff9d8e4cf6b2b83754d5dc0cc, type: 3}
+  - {fileID: 21300000, guid: 90099e0f22768434fad369dafaf804f1, type: 3}
+  - {fileID: 21300000, guid: e4f7284f6241f4debb8647b1f81db9ae, type: 3}
+  - {fileID: 21300000, guid: 8747ea8fca7ea42c3ad170e3f665d74b, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - 0-01-spain-canary-islands-lotus-berthelotii-plant-CHARACTER-HINGED00
+  - 0-01-spain-canary-islands-lotus-berthelotii-plant-CHARACTER-HINGED30
+  - 0-01-spain-canary-islands-lotus-berthelotii-plant-CHARACTER-HINGED11
+  - 0-01-spain-canary-islands-lotus-berthelotii-plant-CHARACTER-HINGED01
+  - 0-01-spain-canary-islands-lotus-berthelotii-plant-CHARACTER-HINGED15
+  - 0-01-spain-canary-islands-lotus-berthelotii-plant-CHARACTER-HINGED21
+  - 0-01-spain-canary-islands-lotus-berthelotii-plant-CHARACTER-HINGED12
+  - 0-01-spain-canary-islands-lotus-berthelotii-plant-CHARACTER-HINGED28
+  - 0-01-spain-canary-islands-lotus-berthelotii-plant-CHARACTER-HINGED06
+  - 0-01-spain-canary-islands-lotus-berthelotii-plant-CHARACTER-HINGED07
+  - 0-01-spain-canary-islands-lotus-berthelotii-plant-CHARACTER-HINGED04
+  - 0-01-spain-canary-islands-lotus-berthelotii-plant-CHARACTER-HINGED16
+  - 0-01-spain-canary-islands-lotus-berthelotii-plant-CHARACTER-HINGED24
+  - 0-01-spain-canary-islands-lotus-berthelotii-plant-CHARACTER-HINGED02
+  - 0-01-spain-canary-islands-lotus-berthelotii-plant-CHARACTER-HINGED18
+  - 0-01-spain-canary-islands-lotus-berthelotii-plant-CHARACTER-HINGED03
+  - 0-01-spain-canary-islands-lotus-berthelotii-plant-CHARACTER-HINGED19
+  - 0-01-spain-canary-islands-lotus-berthelotii-plant-CHARACTER-HINGED13
+  - 0-01-spain-canary-islands-lotus-berthelotii-plant-CHARACTER-HINGED05
+  - 0-01-spain-canary-islands-lotus-berthelotii-plant-CHARACTER-HINGED08
+  - 0-01-spain-canary-islands-lotus-berthelotii-plant-CHARACTER-HINGED25
+  - 0-01-spain-canary-islands-lotus-berthelotii-plant-CHARACTER-HINGED10
+  - 0-01-spain-canary-islands-lotus-berthelotii-plant-CHARACTER-HINGED09
+  - 0-01-spain-canary-islands-lotus-berthelotii-plant-CHARACTER-HINGED22
+  - 0-01-spain-canary-islands-lotus-berthelotii-plant-CHARACTER-HINGED14
+  - 0-01-spain-canary-islands-lotus-berthelotii-plant-CHARACTER-HINGED20
+  - 0-01-spain-canary-islands-lotus-berthelotii-plant-CHARACTER-HINGED17
+  - 0-01-spain-canary-islands-lotus-berthelotii-plant-CHARACTER-HINGED23
+  - 0-01-spain-canary-islands-lotus-berthelotii-plant-CHARACTER-HINGED31
+  - 0-01-spain-canary-islands-lotus-berthelotii-plant-CHARACTER-HINGED27
+  - 0-01-spain-canary-islands-lotus-berthelotii-plant-CHARACTER-HINGED29
+  - 0-01-spain-canary-islands-lotus-berthelotii-plant-CHARACTER-HINGED26
+  m_RenderDataMap: {}
+  m_Tag: New Sprite Atlas
+  m_IsVariant: 0
